@@ -1,6 +1,6 @@
 # hacbs probe payload
 
-This repo is forked from https://github.com/devfile-samples/devfile-sample-go-basic
+This repo is forked from Ralph's fork of https://github.com/devfile-samples/devfile-sample-go-basic
 
 The interesting bit is in the `.github/` directory where there is a github action that pushes a new
 commit to the `build-happy-path` branch on a cron basis.
